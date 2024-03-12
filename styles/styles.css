@@ -1,0 +1,15 @@
+.center {
+    text-align: center;
+}
+
+#restaurant-name {
+    margin-bottom: 0px;
+    font-family: fantasy;
+    color: blue;
+}
+
+#tagline {
+    margin-top: 0px;
+    font-style: italic;
+    color: rgb(91, 91, 91);
+}
